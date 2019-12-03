@@ -1,4 +1,7 @@
 data/*.csv
+data/*.py
+data/*.xls
+data/*.xlsx
 models/*.md
 __pycache__/*
 .idea/*
